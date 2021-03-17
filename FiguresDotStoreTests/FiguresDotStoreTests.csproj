@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FiguresDotStore-master\FiguresDotStore.csproj" />
+    <ProjectReference Include="..\FiguresDotStore.csproj" />
   </ItemGroup>
 
 </Project>
